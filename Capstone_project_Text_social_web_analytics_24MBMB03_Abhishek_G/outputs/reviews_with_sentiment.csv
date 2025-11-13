@@ -1,0 +1,201 @@
+review_id,product_name,review_text,rating,verified_purchase,review_date,cleaned_text,sentiment_score,sentiment_label
+1,Smartphone X,The display and design are absolutely stunning.,1,Yes,2024-06-01,display design absolutely stunning,0.46955,Positive
+2,Smartwatch Elite,"Sound quality is average, not worth the price.",3,No,2024-06-03,sound quality average worth price,0.20481666666666667,Positive
+3,Smartwatch Elite,"After a month of use, still works flawlessly.",5,No,2024-06-05,month use still works flawlessly,0.60115,Positive
+4,Smartphone X,Excellent battery life and smooth performance.,5,No,2024-06-07,excellent battery life smooth performance,0.63595,Positive
+5,Smartwatch Elite,"Faced issues with charging, had to return it.",5,Yes,2024-06-09,faced issues charging return,0.0,Neutral
+6,Laptop Pro,Excellent battery life and smooth performance.,2,Yes,2024-06-11,excellent battery life smooth performance,0.63595,Positive
+7,Smartphone X,"Sound quality is average, not worth the price.",1,Yes,2024-06-13,sound quality average worth price,0.20481666666666667,Positive
+8,Laptop Pro,User interface is clean and easy to navigate.,2,Yes,2024-06-15,user interface clean easy navigate,0.5404,Positive
+9,Laptop Pro,User interface is clean and easy to navigate.,5,Yes,2024-06-17,user interface clean easy navigate,0.5404,Positive
+10,Smartwatch Elite,"Fantastic value for money, highly recommended.",3,Yes,2024-06-19,fantastic value money highly recommended,0.538,Positive
+11,Smartphone X,The display and design are absolutely stunning.,3,Yes,2024-06-21,display design absolutely stunning,0.46955,Positive
+12,Smartwatch Elite,Exceeded expectations! Will buy again.,4,Yes,2024-06-23,exceeded expectations buy,0.0,Neutral
+13,Laptop Pro,Exceeded expectations! Will buy again.,2,Yes,2024-06-25,exceeded expectations buy,0.0,Neutral
+14,Earbuds 2.0,"Fantastic value for money, highly recommended.",1,Yes,2024-06-27,fantastic value money highly recommended,0.538,Positive
+15,Smartwatch Elite,"Fantastic value for money, highly recommended.",2,Yes,2024-06-29,fantastic value money highly recommended,0.538,Positive
+16,Laptop Pro,"Build quality feels cheap, disappointing experience.",4,Yes,2024-07-01,build quality feels cheap disappointing experience,-0.29695,Negative
+17,Smartphone X,User interface is clean and easy to navigate.,3,Yes,2024-07-03,user interface clean easy navigate,0.5404,Positive
+18,Earbuds 2.0,"Faced issues with charging, had to return it.",5,Yes,2024-07-05,faced issues charging return,0.0,Neutral
+19,Laptop Pro,"Fantastic value for money, highly recommended.",5,Yes,2024-07-07,fantastic value money highly recommended,0.538,Positive
+20,Earbuds 2.0,"Camera quality could be better, overall okay.",5,Yes,2024-07-09,camera quality could better overall okay,0.4596166666666667,Positive
+21,Smartwatch Elite,"After a month of use, still works flawlessly.",5,No,2024-07-11,month use still works flawlessly,0.60115,Positive
+22,Laptop Pro,Exceeded expectations! Will buy again.,2,Yes,2024-07-13,exceeded expectations buy,0.0,Neutral
+23,Smartphone X,"Build quality feels cheap, disappointing experience.",1,No,2024-07-15,build quality feels cheap disappointing experience,-0.29695,Negative
+24,Earbuds 2.0,Exceeded expectations! Will buy again.,1,Yes,2024-07-17,exceeded expectations buy,0.0,Neutral
+25,Smartphone X,"After a month of use, still works flawlessly.",3,Yes,2024-07-19,month use still works flawlessly,0.60115,Positive
+26,Laptop Pro,"After a month of use, still works flawlessly.",1,Yes,2024-07-21,month use still works flawlessly,0.60115,Positive
+27,Smartwatch Elite,User interface is clean and easy to navigate.,5,Yes,2024-07-23,user interface clean easy navigate,0.5404,Positive
+28,Smartwatch Elite,"Faced issues with charging, had to return it.",4,Yes,2024-07-25,faced issues charging return,0.0,Neutral
+29,Smartwatch Elite,Excellent battery life and smooth performance.,1,Yes,2024-07-27,excellent battery life smooth performance,0.63595,Positive
+30,Smartphone X,The display and design are absolutely stunning.,5,Yes,2024-07-29,display design absolutely stunning,0.46955,Positive
+31,Smartwatch Elite,"Build quality feels cheap, disappointing experience.",4,Yes,2024-07-31,build quality feels cheap disappointing experience,-0.29695,Negative
+32,Smartwatch Elite,The display and design are absolutely stunning.,4,Yes,2024-08-02,display design absolutely stunning,0.46955,Positive
+33,Laptop Pro,"Build quality feels cheap, disappointing experience.",5,Yes,2024-08-04,build quality feels cheap disappointing experience,-0.29695,Negative
+34,Smartwatch Elite,User interface is clean and easy to navigate.,1,Yes,2024-08-06,user interface clean easy navigate,0.5404,Positive
+35,Smartphone X,"Sound quality is average, not worth the price.",4,Yes,2024-08-08,sound quality average worth price,0.20481666666666667,Positive
+36,Earbuds 2.0,"Sound quality is average, not worth the price.",1,Yes,2024-08-10,sound quality average worth price,0.20481666666666667,Positive
+37,Smartwatch Elite,User interface is clean and easy to navigate.,3,No,2024-08-12,user interface clean easy navigate,0.5404,Positive
+38,Earbuds 2.0,Excellent battery life and smooth performance.,3,Yes,2024-08-14,excellent battery life smooth performance,0.63595,Positive
+39,Smartphone X,"Fantastic value for money, highly recommended.",1,Yes,2024-08-16,fantastic value money highly recommended,0.538,Positive
+40,Earbuds 2.0,The display and design are absolutely stunning.,1,No,2024-08-18,display design absolutely stunning,0.46955,Positive
+41,Earbuds 2.0,Excellent battery life and smooth performance.,5,Yes,2024-08-20,excellent battery life smooth performance,0.63595,Positive
+42,Earbuds 2.0,"Sound quality is average, not worth the price.",1,Yes,2024-08-22,sound quality average worth price,0.20481666666666667,Positive
+43,Smartwatch Elite,"Camera quality could be better, overall okay.",2,Yes,2024-08-24,camera quality could better overall okay,0.4596166666666667,Positive
+44,Smartphone X,"After a month of use, still works flawlessly.",3,Yes,2024-08-26,month use still works flawlessly,0.60115,Positive
+45,Earbuds 2.0,"Camera quality could be better, overall okay.",4,Yes,2024-08-28,camera quality could better overall okay,0.4596166666666667,Positive
+46,Smartwatch Elite,"Build quality feels cheap, disappointing experience.",5,No,2024-08-30,build quality feels cheap disappointing experience,-0.29695,Negative
+47,Earbuds 2.0,Exceeded expectations! Will buy again.,3,Yes,2024-09-01,exceeded expectations buy,0.0,Neutral
+48,Laptop Pro,Exceeded expectations! Will buy again.,4,Yes,2024-09-03,exceeded expectations buy,0.0,Neutral
+49,Smartwatch Elite,"Fantastic value for money, highly recommended.",5,Yes,2024-09-05,fantastic value money highly recommended,0.538,Positive
+50,Laptop Pro,"After a month of use, still works flawlessly.",3,Yes,2024-09-07,month use still works flawlessly,0.60115,Positive
+51,Smartphone X,"Fantastic value for money, highly recommended.",2,No,2024-09-09,fantastic value money highly recommended,0.538,Positive
+52,Smartphone X,The display and design are absolutely stunning.,5,Yes,2024-09-11,display design absolutely stunning,0.46955,Positive
+53,Earbuds 2.0,"Faced issues with charging, had to return it.",1,Yes,2024-09-13,faced issues charging return,0.0,Neutral
+54,Smartwatch Elite,The display and design are absolutely stunning.,4,Yes,2024-09-15,display design absolutely stunning,0.46955,Positive
+55,Earbuds 2.0,Exceeded expectations! Will buy again.,1,Yes,2024-09-17,exceeded expectations buy,0.0,Neutral
+56,Laptop Pro,Exceeded expectations! Will buy again.,1,Yes,2024-09-19,exceeded expectations buy,0.0,Neutral
+57,Smartwatch Elite,The display and design are absolutely stunning.,5,Yes,2024-09-21,display design absolutely stunning,0.46955,Positive
+58,Laptop Pro,Exceeded expectations! Will buy again.,3,Yes,2024-09-23,exceeded expectations buy,0.0,Neutral
+59,Earbuds 2.0,User interface is clean and easy to navigate.,1,Yes,2024-09-25,user interface clean easy navigate,0.5404,Positive
+60,Smartphone X,Exceeded expectations! Will buy again.,5,Yes,2024-09-27,exceeded expectations buy,0.0,Neutral
+61,Laptop Pro,"Faced issues with charging, had to return it.",1,Yes,2024-09-29,faced issues charging return,0.0,Neutral
+62,Smartwatch Elite,"Sound quality is average, not worth the price.",2,Yes,2024-10-01,sound quality average worth price,0.20481666666666667,Positive
+63,Smartphone X,Exceeded expectations! Will buy again.,4,Yes,2024-10-03,exceeded expectations buy,0.0,Neutral
+64,Smartwatch Elite,"Fantastic value for money, highly recommended.",4,No,2024-10-05,fantastic value money highly recommended,0.538,Positive
+65,Smartphone X,"Sound quality is average, not worth the price.",1,Yes,2024-10-07,sound quality average worth price,0.20481666666666667,Positive
+66,Laptop Pro,Excellent battery life and smooth performance.,3,Yes,2024-10-09,excellent battery life smooth performance,0.63595,Positive
+67,Smartwatch Elite,The display and design are absolutely stunning.,2,Yes,2024-10-11,display design absolutely stunning,0.46955,Positive
+68,Smartwatch Elite,"Fantastic value for money, highly recommended.",4,No,2024-10-13,fantastic value money highly recommended,0.538,Positive
+69,Smartwatch Elite,"Faced issues with charging, had to return it.",5,Yes,2024-10-15,faced issues charging return,0.0,Neutral
+70,Laptop Pro,"After a month of use, still works flawlessly.",1,Yes,2024-10-17,month use still works flawlessly,0.60115,Positive
+71,Earbuds 2.0,"Sound quality is average, not worth the price.",1,Yes,2024-10-19,sound quality average worth price,0.20481666666666667,Positive
+72,Laptop Pro,"Fantastic value for money, highly recommended.",1,Yes,2024-10-21,fantastic value money highly recommended,0.538,Positive
+73,Laptop Pro,Exceeded expectations! Will buy again.,3,No,2024-10-23,exceeded expectations buy,0.0,Neutral
+74,Earbuds 2.0,"Build quality feels cheap, disappointing experience.",5,Yes,2024-10-25,build quality feels cheap disappointing experience,-0.29695,Negative
+75,Smartphone X,"Faced issues with charging, had to return it.",1,Yes,2024-10-27,faced issues charging return,0.0,Neutral
+76,Smartwatch Elite,The display and design are absolutely stunning.,4,Yes,2024-10-29,display design absolutely stunning,0.46955,Positive
+77,Smartphone X,"Faced issues with charging, had to return it.",4,Yes,2024-10-31,faced issues charging return,0.0,Neutral
+78,Earbuds 2.0,User interface is clean and easy to navigate.,4,Yes,2024-11-02,user interface clean easy navigate,0.5404,Positive
+79,Smartwatch Elite,Excellent battery life and smooth performance.,3,Yes,2024-11-04,excellent battery life smooth performance,0.63595,Positive
+80,Laptop Pro,Excellent battery life and smooth performance.,2,Yes,2024-11-06,excellent battery life smooth performance,0.63595,Positive
+81,Laptop Pro,Excellent battery life and smooth performance.,3,Yes,2024-11-08,excellent battery life smooth performance,0.63595,Positive
+82,Smartphone X,"Camera quality could be better, overall okay.",3,No,2024-11-10,camera quality could better overall okay,0.4596166666666667,Positive
+83,Laptop Pro,"Build quality feels cheap, disappointing experience.",4,Yes,2024-11-12,build quality feels cheap disappointing experience,-0.29695,Negative
+84,Earbuds 2.0,"Camera quality could be better, overall okay.",4,Yes,2024-11-14,camera quality could better overall okay,0.4596166666666667,Positive
+85,Earbuds 2.0,"After a month of use, still works flawlessly.",3,Yes,2024-11-16,month use still works flawlessly,0.60115,Positive
+86,Smartphone X,"After a month of use, still works flawlessly.",1,Yes,2024-11-18,month use still works flawlessly,0.60115,Positive
+87,Earbuds 2.0,The display and design are absolutely stunning.,3,No,2024-11-20,display design absolutely stunning,0.46955,Positive
+88,Earbuds 2.0,"Faced issues with charging, had to return it.",1,Yes,2024-11-22,faced issues charging return,0.0,Neutral
+89,Earbuds 2.0,Exceeded expectations! Will buy again.,2,No,2024-11-24,exceeded expectations buy,0.0,Neutral
+90,Laptop Pro,"Build quality feels cheap, disappointing experience.",3,Yes,2024-11-26,build quality feels cheap disappointing experience,-0.29695,Negative
+91,Smartphone X,"Sound quality is average, not worth the price.",2,Yes,2024-11-28,sound quality average worth price,0.20481666666666667,Positive
+92,Earbuds 2.0,"After a month of use, still works flawlessly.",2,Yes,2024-11-30,month use still works flawlessly,0.60115,Positive
+93,Earbuds 2.0,Excellent battery life and smooth performance.,2,No,2024-12-02,excellent battery life smooth performance,0.63595,Positive
+94,Smartphone X,The display and design are absolutely stunning.,1,Yes,2024-12-04,display design absolutely stunning,0.46955,Positive
+95,Earbuds 2.0,Excellent battery life and smooth performance.,2,Yes,2024-12-06,excellent battery life smooth performance,0.63595,Positive
+96,Laptop Pro,"Build quality feels cheap, disappointing experience.",5,Yes,2024-12-08,build quality feels cheap disappointing experience,-0.29695,Negative
+97,Smartphone X,Exceeded expectations! Will buy again.,2,Yes,2024-12-10,exceeded expectations buy,0.0,Neutral
+98,Laptop Pro,"After a month of use, still works flawlessly.",4,Yes,2024-12-12,month use still works flawlessly,0.60115,Positive
+99,Smartwatch Elite,Excellent battery life and smooth performance.,1,Yes,2024-12-14,excellent battery life smooth performance,0.63595,Positive
+100,Smartphone X,"After a month of use, still works flawlessly.",1,Yes,2024-12-16,month use still works flawlessly,0.60115,Positive
+101,Smartwatch Elite,"Fantastic value for money, highly recommended.",4,Yes,2024-12-18,fantastic value money highly recommended,0.538,Positive
+102,Earbuds 2.0,"Fantastic value for money, highly recommended.",5,Yes,2024-12-20,fantastic value money highly recommended,0.538,Positive
+103,Smartphone X,"Camera quality could be better, overall okay.",4,Yes,2024-12-22,camera quality could better overall okay,0.4596166666666667,Positive
+104,Laptop Pro,Exceeded expectations! Will buy again.,2,Yes,2024-12-24,exceeded expectations buy,0.0,Neutral
+105,Smartphone X,"Faced issues with charging, had to return it.",5,Yes,2024-12-26,faced issues charging return,0.0,Neutral
+106,Smartwatch Elite,"Sound quality is average, not worth the price.",1,Yes,2024-12-28,sound quality average worth price,0.20481666666666667,Positive
+107,Smartwatch Elite,Exceeded expectations! Will buy again.,4,No,2024-12-30,exceeded expectations buy,0.0,Neutral
+108,Smartphone X,Excellent battery life and smooth performance.,3,Yes,2025-01-01,excellent battery life smooth performance,0.63595,Positive
+109,Laptop Pro,Excellent battery life and smooth performance.,3,Yes,2025-01-03,excellent battery life smooth performance,0.63595,Positive
+110,Earbuds 2.0,"Sound quality is average, not worth the price.",4,Yes,2025-01-05,sound quality average worth price,0.20481666666666667,Positive
+111,Earbuds 2.0,"Fantastic value for money, highly recommended.",4,Yes,2025-01-07,fantastic value money highly recommended,0.538,Positive
+112,Smartphone X,"Camera quality could be better, overall okay.",2,Yes,2025-01-09,camera quality could better overall okay,0.4596166666666667,Positive
+113,Earbuds 2.0,"Camera quality could be better, overall okay.",1,Yes,2025-01-11,camera quality could better overall okay,0.4596166666666667,Positive
+114,Earbuds 2.0,"Sound quality is average, not worth the price.",5,No,2025-01-13,sound quality average worth price,0.20481666666666667,Positive
+115,Smartwatch Elite,"After a month of use, still works flawlessly.",3,No,2025-01-15,month use still works flawlessly,0.60115,Positive
+116,Smartphone X,"Camera quality could be better, overall okay.",4,Yes,2025-01-17,camera quality could better overall okay,0.4596166666666667,Positive
+117,Smartphone X,Exceeded expectations! Will buy again.,5,Yes,2025-01-19,exceeded expectations buy,0.0,Neutral
+118,Smartphone X,"Sound quality is average, not worth the price.",5,Yes,2025-01-21,sound quality average worth price,0.20481666666666667,Positive
+119,Smartwatch Elite,"Camera quality could be better, overall okay.",1,Yes,2025-01-23,camera quality could better overall okay,0.4596166666666667,Positive
+120,Earbuds 2.0,"Faced issues with charging, had to return it.",1,No,2025-01-25,faced issues charging return,0.0,Neutral
+121,Smartphone X,"Faced issues with charging, had to return it.",4,Yes,2025-01-27,faced issues charging return,0.0,Neutral
+122,Smartphone X,"Fantastic value for money, highly recommended.",2,Yes,2025-01-29,fantastic value money highly recommended,0.538,Positive
+123,Earbuds 2.0,"Sound quality is average, not worth the price.",4,Yes,2025-01-31,sound quality average worth price,0.20481666666666667,Positive
+124,Smartphone X,"After a month of use, still works flawlessly.",3,Yes,2025-02-02,month use still works flawlessly,0.60115,Positive
+125,Smartphone X,"After a month of use, still works flawlessly.",4,No,2025-02-04,month use still works flawlessly,0.60115,Positive
+126,Laptop Pro,"Faced issues with charging, had to return it.",5,No,2025-02-06,faced issues charging return,0.0,Neutral
+127,Laptop Pro,"Fantastic value for money, highly recommended.",3,Yes,2025-02-08,fantastic value money highly recommended,0.538,Positive
+128,Smartphone X,Exceeded expectations! Will buy again.,5,Yes,2025-02-10,exceeded expectations buy,0.0,Neutral
+129,Smartwatch Elite,"Sound quality is average, not worth the price.",2,No,2025-02-12,sound quality average worth price,0.20481666666666667,Positive
+130,Earbuds 2.0,"Fantastic value for money, highly recommended.",2,Yes,2025-02-14,fantastic value money highly recommended,0.538,Positive
+131,Smartphone X,The display and design are absolutely stunning.,5,No,2025-02-16,display design absolutely stunning,0.46955,Positive
+132,Laptop Pro,Excellent battery life and smooth performance.,4,Yes,2025-02-18,excellent battery life smooth performance,0.63595,Positive
+133,Earbuds 2.0,Excellent battery life and smooth performance.,3,Yes,2025-02-20,excellent battery life smooth performance,0.63595,Positive
+134,Smartphone X,Exceeded expectations! Will buy again.,2,Yes,2025-02-22,exceeded expectations buy,0.0,Neutral
+135,Laptop Pro,"After a month of use, still works flawlessly.",5,Yes,2025-02-24,month use still works flawlessly,0.60115,Positive
+136,Laptop Pro,Exceeded expectations! Will buy again.,4,Yes,2025-02-26,exceeded expectations buy,0.0,Neutral
+137,Earbuds 2.0,The display and design are absolutely stunning.,3,No,2025-02-28,display design absolutely stunning,0.46955,Positive
+138,Laptop Pro,"Faced issues with charging, had to return it.",5,No,2025-03-02,faced issues charging return,0.0,Neutral
+139,Smartwatch Elite,"After a month of use, still works flawlessly.",5,No,2025-03-04,month use still works flawlessly,0.60115,Positive
+140,Smartphone X,"After a month of use, still works flawlessly.",1,Yes,2025-03-06,month use still works flawlessly,0.60115,Positive
+141,Smartphone X,"Camera quality could be better, overall okay.",4,Yes,2025-03-08,camera quality could better overall okay,0.4596166666666667,Positive
+142,Earbuds 2.0,The display and design are absolutely stunning.,4,Yes,2025-03-10,display design absolutely stunning,0.46955,Positive
+143,Smartwatch Elite,"Faced issues with charging, had to return it.",4,Yes,2025-03-12,faced issues charging return,0.0,Neutral
+144,Smartwatch Elite,"Fantastic value for money, highly recommended.",1,Yes,2025-03-14,fantastic value money highly recommended,0.538,Positive
+145,Laptop Pro,"Build quality feels cheap, disappointing experience.",2,Yes,2025-03-16,build quality feels cheap disappointing experience,-0.29695,Negative
+146,Laptop Pro,"Sound quality is average, not worth the price.",5,Yes,2025-03-18,sound quality average worth price,0.20481666666666667,Positive
+147,Smartphone X,"Fantastic value for money, highly recommended.",5,Yes,2025-03-20,fantastic value money highly recommended,0.538,Positive
+148,Earbuds 2.0,"Camera quality could be better, overall okay.",3,Yes,2025-03-22,camera quality could better overall okay,0.4596166666666667,Positive
+149,Smartwatch Elite,"Faced issues with charging, had to return it.",4,No,2025-03-24,faced issues charging return,0.0,Neutral
+150,Laptop Pro,Excellent battery life and smooth performance.,5,Yes,2025-03-26,excellent battery life smooth performance,0.63595,Positive
+151,Smartwatch Elite,Exceeded expectations! Will buy again.,2,Yes,2025-03-28,exceeded expectations buy,0.0,Neutral
+152,Earbuds 2.0,"Sound quality is average, not worth the price.",1,Yes,2025-03-30,sound quality average worth price,0.20481666666666667,Positive
+153,Laptop Pro,"After a month of use, still works flawlessly.",4,Yes,2025-04-01,month use still works flawlessly,0.60115,Positive
+154,Smartwatch Elite,"After a month of use, still works flawlessly.",2,Yes,2025-04-03,month use still works flawlessly,0.60115,Positive
+155,Earbuds 2.0,The display and design are absolutely stunning.,4,Yes,2025-04-05,display design absolutely stunning,0.46955,Positive
+156,Smartphone X,Exceeded expectations! Will buy again.,3,Yes,2025-04-07,exceeded expectations buy,0.0,Neutral
+157,Laptop Pro,Excellent battery life and smooth performance.,3,Yes,2025-04-09,excellent battery life smooth performance,0.63595,Positive
+158,Laptop Pro,"Camera quality could be better, overall okay.",3,Yes,2025-04-11,camera quality could better overall okay,0.4596166666666667,Positive
+159,Earbuds 2.0,"Camera quality could be better, overall okay.",1,Yes,2025-04-13,camera quality could better overall okay,0.4596166666666667,Positive
+160,Earbuds 2.0,"Faced issues with charging, had to return it.",4,Yes,2025-04-15,faced issues charging return,0.0,Neutral
+161,Earbuds 2.0,"Sound quality is average, not worth the price.",2,Yes,2025-04-17,sound quality average worth price,0.20481666666666667,Positive
+162,Smartwatch Elite,"Fantastic value for money, highly recommended.",2,Yes,2025-04-19,fantastic value money highly recommended,0.538,Positive
+163,Smartwatch Elite,The display and design are absolutely stunning.,5,Yes,2025-04-21,display design absolutely stunning,0.46955,Positive
+164,Smartphone X,"After a month of use, still works flawlessly.",3,Yes,2025-04-23,month use still works flawlessly,0.60115,Positive
+165,Smartwatch Elite,User interface is clean and easy to navigate.,1,No,2025-04-25,user interface clean easy navigate,0.5404,Positive
+166,Smartphone X,User interface is clean and easy to navigate.,2,No,2025-04-27,user interface clean easy navigate,0.5404,Positive
+167,Laptop Pro,"Sound quality is average, not worth the price.",5,Yes,2025-04-29,sound quality average worth price,0.20481666666666667,Positive
+168,Smartphone X,"Build quality feels cheap, disappointing experience.",4,Yes,2025-05-01,build quality feels cheap disappointing experience,-0.29695,Negative
+169,Earbuds 2.0,The display and design are absolutely stunning.,2,Yes,2025-05-03,display design absolutely stunning,0.46955,Positive
+170,Laptop Pro,User interface is clean and easy to navigate.,2,Yes,2025-05-05,user interface clean easy navigate,0.5404,Positive
+171,Earbuds 2.0,"Camera quality could be better, overall okay.",5,No,2025-05-07,camera quality could better overall okay,0.4596166666666667,Positive
+172,Earbuds 2.0,"After a month of use, still works flawlessly.",2,No,2025-05-09,month use still works flawlessly,0.60115,Positive
+173,Laptop Pro,The display and design are absolutely stunning.,2,Yes,2025-05-11,display design absolutely stunning,0.46955,Positive
+174,Smartphone X,"After a month of use, still works flawlessly.",1,Yes,2025-05-13,month use still works flawlessly,0.60115,Positive
+175,Smartwatch Elite,"Sound quality is average, not worth the price.",5,Yes,2025-05-15,sound quality average worth price,0.20481666666666667,Positive
+176,Smartwatch Elite,"Sound quality is average, not worth the price.",4,Yes,2025-05-17,sound quality average worth price,0.20481666666666667,Positive
+177,Smartwatch Elite,"Faced issues with charging, had to return it.",2,Yes,2025-05-19,faced issues charging return,0.0,Neutral
+178,Smartphone X,User interface is clean and easy to navigate.,4,No,2025-05-21,user interface clean easy navigate,0.5404,Positive
+179,Laptop Pro,"Camera quality could be better, overall okay.",3,No,2025-05-23,camera quality could better overall okay,0.4596166666666667,Positive
+180,Smartphone X,"After a month of use, still works flawlessly.",5,No,2025-05-25,month use still works flawlessly,0.60115,Positive
+181,Laptop Pro,"Build quality feels cheap, disappointing experience.",3,Yes,2025-05-27,build quality feels cheap disappointing experience,-0.29695,Negative
+182,Smartwatch Elite,"Faced issues with charging, had to return it.",3,Yes,2025-05-29,faced issues charging return,0.0,Neutral
+183,Laptop Pro,The display and design are absolutely stunning.,3,Yes,2025-05-31,display design absolutely stunning,0.46955,Positive
+184,Smartwatch Elite,The display and design are absolutely stunning.,1,Yes,2025-06-02,display design absolutely stunning,0.46955,Positive
+185,Earbuds 2.0,Excellent battery life and smooth performance.,4,Yes,2025-06-04,excellent battery life smooth performance,0.63595,Positive
+186,Smartphone X,"Camera quality could be better, overall okay.",3,Yes,2025-06-06,camera quality could better overall okay,0.4596166666666667,Positive
+187,Laptop Pro,User interface is clean and easy to navigate.,1,Yes,2025-06-08,user interface clean easy navigate,0.5404,Positive
+188,Smartwatch Elite,"Camera quality could be better, overall okay.",5,Yes,2025-06-10,camera quality could better overall okay,0.4596166666666667,Positive
+189,Smartphone X,"After a month of use, still works flawlessly.",2,Yes,2025-06-12,month use still works flawlessly,0.60115,Positive
+190,Laptop Pro,"Sound quality is average, not worth the price.",4,Yes,2025-06-14,sound quality average worth price,0.20481666666666667,Positive
+191,Smartwatch Elite,"After a month of use, still works flawlessly.",1,Yes,2025-06-16,month use still works flawlessly,0.60115,Positive
+192,Smartphone X,"Camera quality could be better, overall okay.",4,Yes,2025-06-18,camera quality could better overall okay,0.4596166666666667,Positive
+193,Smartphone X,The display and design are absolutely stunning.,1,Yes,2025-06-20,display design absolutely stunning,0.46955,Positive
+194,Laptop Pro,"Sound quality is average, not worth the price.",5,Yes,2025-06-22,sound quality average worth price,0.20481666666666667,Positive
+195,Earbuds 2.0,"Sound quality is average, not worth the price.",5,Yes,2025-06-24,sound quality average worth price,0.20481666666666667,Positive
+196,Smartwatch Elite,"Fantastic value for money, highly recommended.",4,Yes,2025-06-26,fantastic value money highly recommended,0.538,Positive
+197,Smartwatch Elite,User interface is clean and easy to navigate.,1,No,2025-06-28,user interface clean easy navigate,0.5404,Positive
+198,Smartphone X,"Sound quality is average, not worth the price.",3,Yes,2025-06-30,sound quality average worth price,0.20481666666666667,Positive
+199,Earbuds 2.0,"Sound quality is average, not worth the price.",1,Yes,2025-07-02,sound quality average worth price,0.20481666666666667,Positive
+200,Laptop Pro,"Fantastic value for money, highly recommended.",2,Yes,2025-07-04,fantastic value money highly recommended,0.538,Positive

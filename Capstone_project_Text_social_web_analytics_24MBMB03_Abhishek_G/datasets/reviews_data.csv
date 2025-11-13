@@ -1,0 +1,301 @@
+review_id,review_text,rating,date
+1,Product 1 quality could have been better.,3,2024-08-06
+2,Product 2 quality could have been better.,2,2024-10-05
+3,I bought this product 3 and it works great!,4,2024-09-15
+4,Product 4 quality could have been better.,5,2024-04-08
+5,Product 5 quality could have been better.,5,2024-08-12
+6,I bought this product 6 and it works great!,5,2024-03-31
+7,Product 7 quality could have been better.,5,2024-08-10
+8,Product 8 quality could have been better.,5,2024-09-27
+9,I bought this product 9 and it works great!,1,2024-03-13
+10,Product 10 quality could have been better.,4,2024-04-04
+11,Product 11 quality could have been better.,2,2024-03-16
+12,I bought this product 12 and it works great!,1,2024-07-26
+13,Product 13 quality could have been better.,2,2024-01-23
+14,Product 14 quality could have been better.,5,2024-10-16
+15,I bought this product 15 and it works great!,4,2024-02-10
+16,Product 16 quality could have been better.,2,2024-10-16
+17,Product 17 quality could have been better.,5,2024-01-29
+18,I bought this product 18 and it works great!,5,2024-06-20
+19,Product 19 quality could have been better.,2,2024-01-18
+20,Product 20 quality could have been better.,4,2024-05-23
+21,I bought this product 21 and it works great!,1,2024-10-07
+22,Product 22 quality could have been better.,5,2024-09-01
+23,Product 23 quality could have been better.,1,2024-04-11
+24,I bought this product 24 and it works great!,1,2024-03-02
+25,Product 25 quality could have been better.,3,2024-05-12
+26,Product 26 quality could have been better.,4,2024-07-29
+27,I bought this product 27 and it works great!,5,2024-02-16
+28,Product 28 quality could have been better.,1,2024-03-15
+29,Product 29 quality could have been better.,3,2024-05-20
+30,I bought this product 30 and it works great!,5,2024-05-08
+31,Product 31 quality could have been better.,2,2024-06-10
+32,Product 32 quality could have been better.,1,2024-03-19
+33,I bought this product 33 and it works great!,2,2024-06-07
+34,Product 34 quality could have been better.,4,2024-06-24
+35,Product 35 quality could have been better.,1,2024-01-01
+36,I bought this product 36 and it works great!,4,2024-03-28
+37,Product 37 quality could have been better.,3,2024-01-07
+38,Product 38 quality could have been better.,5,2024-10-04
+39,I bought this product 39 and it works great!,5,2024-08-21
+40,Product 40 quality could have been better.,5,2024-01-31
+41,Product 41 quality could have been better.,2,2024-07-07
+42,I bought this product 42 and it works great!,2,2024-01-17
+43,Product 43 quality could have been better.,1,2024-05-22
+44,Product 44 quality could have been better.,5,2024-09-03
+45,I bought this product 45 and it works great!,4,2024-05-18
+46,Product 46 quality could have been better.,3,2024-01-01
+47,Product 47 quality could have been better.,3,2024-03-07
+48,I bought this product 48 and it works great!,2,2024-04-09
+49,Product 49 quality could have been better.,5,2024-03-02
+50,Product 50 quality could have been better.,4,2024-05-14
+51,I bought this product 51 and it works great!,1,2024-07-27
+52,Product 52 quality could have been better.,1,2024-10-16
+53,Product 53 quality could have been better.,3,2024-06-09
+54,I bought this product 54 and it works great!,5,2024-03-16
+55,Product 55 quality could have been better.,4,2024-04-12
+56,Product 56 quality could have been better.,2,2024-10-02
+57,I bought this product 57 and it works great!,4,2024-08-16
+58,Product 58 quality could have been better.,2,2024-04-24
+59,Product 59 quality could have been better.,3,2024-03-11
+60,I bought this product 60 and it works great!,5,2024-08-03
+61,Product 61 quality could have been better.,4,2024-03-25
+62,Product 62 quality could have been better.,3,2024-08-06
+63,I bought this product 63 and it works great!,3,2024-04-07
+64,Product 64 quality could have been better.,4,2024-06-26
+65,Product 65 quality could have been better.,1,2024-06-27
+66,I bought this product 66 and it works great!,4,2024-02-06
+67,Product 67 quality could have been better.,4,2024-02-04
+68,Product 68 quality could have been better.,5,2024-04-05
+69,I bought this product 69 and it works great!,5,2024-06-23
+70,Product 70 quality could have been better.,3,2024-06-07
+71,Product 71 quality could have been better.,4,2024-10-22
+72,I bought this product 72 and it works great!,5,2024-10-09
+73,Product 73 quality could have been better.,4,2024-10-17
+74,Product 74 quality could have been better.,2,2024-09-10
+75,I bought this product 75 and it works great!,1,2024-06-28
+76,Product 76 quality could have been better.,2,2024-03-12
+77,Product 77 quality could have been better.,4,2024-03-31
+78,I bought this product 78 and it works great!,3,2024-07-17
+79,Product 79 quality could have been better.,2,2024-07-15
+80,Product 80 quality could have been better.,2,2024-07-28
+81,I bought this product 81 and it works great!,3,2024-10-14
+82,Product 82 quality could have been better.,3,2024-05-25
+83,Product 83 quality could have been better.,3,2024-08-25
+84,I bought this product 84 and it works great!,1,2024-09-08
+85,Product 85 quality could have been better.,5,2024-09-11
+86,Product 86 quality could have been better.,4,2024-10-21
+87,I bought this product 87 and it works great!,3,2024-06-05
+88,Product 88 quality could have been better.,1,2024-09-26
+89,Product 89 quality could have been better.,2,2024-01-16
+90,I bought this product 90 and it works great!,3,2024-05-23
+91,Product 91 quality could have been better.,1,2024-08-26
+92,Product 92 quality could have been better.,3,2024-05-29
+93,I bought this product 93 and it works great!,2,2024-04-04
+94,Product 94 quality could have been better.,5,2024-03-31
+95,Product 95 quality could have been better.,2,2024-04-26
+96,I bought this product 96 and it works great!,4,2024-08-30
+97,Product 97 quality could have been better.,3,2024-09-14
+98,Product 98 quality could have been better.,4,2024-08-08
+99,I bought this product 99 and it works great!,4,2024-03-22
+100,Product 100 quality could have been better.,4,2024-03-03
+101,Product 101 quality could have been better.,5,2024-09-09
+102,I bought this product 102 and it works great!,2,2024-05-22
+103,Product 103 quality could have been better.,2,2024-01-15
+104,Product 104 quality could have been better.,1,2024-04-28
+105,I bought this product 105 and it works great!,2,2024-04-22
+106,Product 106 quality could have been better.,1,2024-05-15
+107,Product 107 quality could have been better.,1,2024-09-06
+108,I bought this product 108 and it works great!,1,2024-09-07
+109,Product 109 quality could have been better.,1,2024-06-30
+110,Product 110 quality could have been better.,1,2024-09-01
+111,I bought this product 111 and it works great!,2,2024-07-10
+112,Product 112 quality could have been better.,2,2024-02-11
+113,Product 113 quality could have been better.,4,2024-01-15
+114,I bought this product 114 and it works great!,3,2024-01-20
+115,Product 115 quality could have been better.,3,2024-07-22
+116,Product 116 quality could have been better.,2,2024-02-15
+117,I bought this product 117 and it works great!,2,2024-09-03
+118,Product 118 quality could have been better.,3,2024-03-19
+119,Product 119 quality could have been better.,5,2024-02-03
+120,I bought this product 120 and it works great!,1,2024-05-15
+121,Product 121 quality could have been better.,2,2024-08-22
+122,Product 122 quality could have been better.,5,2024-09-16
+123,I bought this product 123 and it works great!,4,2024-04-27
+124,Product 124 quality could have been better.,5,2024-02-14
+125,Product 125 quality could have been better.,1,2024-05-22
+126,I bought this product 126 and it works great!,1,2024-07-07
+127,Product 127 quality could have been better.,1,2024-02-20
+128,Product 128 quality could have been better.,1,2024-03-19
+129,I bought this product 129 and it works great!,5,2024-05-09
+130,Product 130 quality could have been better.,2,2024-07-31
+131,Product 131 quality could have been better.,3,2024-09-26
+132,I bought this product 132 and it works great!,2,2024-05-30
+133,Product 133 quality could have been better.,4,2024-04-20
+134,Product 134 quality could have been better.,1,2024-04-12
+135,I bought this product 135 and it works great!,5,2024-08-19
+136,Product 136 quality could have been better.,5,2024-10-12
+137,Product 137 quality could have been better.,1,2024-03-29
+138,I bought this product 138 and it works great!,2,2024-01-16
+139,Product 139 quality could have been better.,4,2024-03-29
+140,Product 140 quality could have been better.,2,2024-07-24
+141,I bought this product 141 and it works great!,4,2024-05-09
+142,Product 142 quality could have been better.,1,2024-01-28
+143,Product 143 quality could have been better.,5,2024-09-14
+144,I bought this product 144 and it works great!,3,2024-05-24
+145,Product 145 quality could have been better.,1,2024-01-01
+146,Product 146 quality could have been better.,1,2024-08-15
+147,I bought this product 147 and it works great!,5,2024-09-06
+148,Product 148 quality could have been better.,3,2024-03-19
+149,Product 149 quality could have been better.,1,2024-06-21
+150,I bought this product 150 and it works great!,4,2024-06-30
+151,Product 151 quality could have been better.,3,2024-06-25
+152,Product 152 quality could have been better.,5,2024-04-26
+153,I bought this product 153 and it works great!,2,2024-07-12
+154,Product 154 quality could have been better.,2,2024-09-22
+155,Product 155 quality could have been better.,4,2024-05-01
+156,I bought this product 156 and it works great!,3,2024-05-13
+157,Product 157 quality could have been better.,5,2024-05-31
+158,Product 158 quality could have been better.,4,2024-09-08
+159,I bought this product 159 and it works great!,3,2024-10-25
+160,Product 160 quality could have been better.,2,2024-09-26
+161,Product 161 quality could have been better.,1,2024-01-14
+162,I bought this product 162 and it works great!,4,2024-09-21
+163,Product 163 quality could have been better.,4,2024-04-24
+164,Product 164 quality could have been better.,2,2024-05-14
+165,I bought this product 165 and it works great!,2,2024-09-13
+166,Product 166 quality could have been better.,2,2024-03-31
+167,Product 167 quality could have been better.,4,2024-07-08
+168,I bought this product 168 and it works great!,5,2024-04-08
+169,Product 169 quality could have been better.,2,2024-05-27
+170,Product 170 quality could have been better.,4,2024-03-07
+171,I bought this product 171 and it works great!,3,2024-03-31
+172,Product 172 quality could have been better.,4,2024-04-28
+173,Product 173 quality could have been better.,3,2024-04-23
+174,I bought this product 174 and it works great!,4,2024-05-11
+175,Product 175 quality could have been better.,3,2024-07-10
+176,Product 176 quality could have been better.,5,2024-02-01
+177,I bought this product 177 and it works great!,4,2024-08-11
+178,Product 178 quality could have been better.,1,2024-07-03
+179,Product 179 quality could have been better.,3,2024-02-19
+180,I bought this product 180 and it works great!,4,2024-10-15
+181,Product 181 quality could have been better.,5,2024-06-18
+182,Product 182 quality could have been better.,4,2024-09-23
+183,I bought this product 183 and it works great!,5,2024-07-13
+184,Product 184 quality could have been better.,5,2024-04-24
+185,Product 185 quality could have been better.,2,2024-03-14
+186,I bought this product 186 and it works great!,5,2024-09-15
+187,Product 187 quality could have been better.,2,2024-02-05
+188,Product 188 quality could have been better.,4,2024-05-16
+189,I bought this product 189 and it works great!,5,2024-06-11
+190,Product 190 quality could have been better.,4,2024-06-21
+191,Product 191 quality could have been better.,1,2024-01-23
+192,I bought this product 192 and it works great!,2,2024-06-30
+193,Product 193 quality could have been better.,1,2024-10-08
+194,Product 194 quality could have been better.,2,2024-06-21
+195,I bought this product 195 and it works great!,2,2024-01-23
+196,Product 196 quality could have been better.,4,2024-01-11
+197,Product 197 quality could have been better.,2,2024-07-11
+198,I bought this product 198 and it works great!,1,2024-10-07
+199,Product 199 quality could have been better.,5,2024-08-15
+200,Product 200 quality could have been better.,1,2024-03-10
+201,I bought this product 201 and it works great!,4,2024-01-16
+202,Product 202 quality could have been better.,2,2024-04-10
+203,Product 203 quality could have been better.,2,2024-06-04
+204,I bought this product 204 and it works great!,5,2024-05-20
+205,Product 205 quality could have been better.,2,2024-06-28
+206,Product 206 quality could have been better.,2,2024-09-26
+207,I bought this product 207 and it works great!,3,2024-02-22
+208,Product 208 quality could have been better.,5,2024-10-26
+209,Product 209 quality could have been better.,3,2024-07-12
+210,I bought this product 210 and it works great!,2,2024-01-25
+211,Product 211 quality could have been better.,5,2024-05-15
+212,Product 212 quality could have been better.,1,2024-08-07
+213,I bought this product 213 and it works great!,3,2024-08-17
+214,Product 214 quality could have been better.,4,2024-08-08
+215,Product 215 quality could have been better.,2,2024-02-16
+216,I bought this product 216 and it works great!,4,2024-05-02
+217,Product 217 quality could have been better.,1,2024-05-15
+218,Product 218 quality could have been better.,1,2024-06-07
+219,I bought this product 219 and it works great!,1,2024-08-28
+220,Product 220 quality could have been better.,5,2024-01-04
+221,Product 221 quality could have been better.,4,2024-02-04
+222,I bought this product 222 and it works great!,1,2024-10-19
+223,Product 223 quality could have been better.,1,2024-04-27
+224,Product 224 quality could have been better.,4,2024-02-19
+225,I bought this product 225 and it works great!,3,2024-07-09
+226,Product 226 quality could have been better.,2,2024-07-01
+227,Product 227 quality could have been better.,4,2024-04-09
+228,I bought this product 228 and it works great!,2,2024-02-27
+229,Product 229 quality could have been better.,4,2024-08-24
+230,Product 230 quality could have been better.,5,2024-02-16
+231,I bought this product 231 and it works great!,1,2024-04-03
+232,Product 232 quality could have been better.,5,2024-03-15
+233,Product 233 quality could have been better.,4,2024-05-18
+234,I bought this product 234 and it works great!,4,2024-05-07
+235,Product 235 quality could have been better.,5,2024-10-07
+236,Product 236 quality could have been better.,2,2024-04-17
+237,I bought this product 237 and it works great!,4,2024-03-30
+238,Product 238 quality could have been better.,3,2024-04-18
+239,Product 239 quality could have been better.,3,2024-08-25
+240,I bought this product 240 and it works great!,2,2024-08-14
+241,Product 241 quality could have been better.,1,2024-01-13
+242,Product 242 quality could have been better.,4,2024-08-30
+243,I bought this product 243 and it works great!,2,2024-04-17
+244,Product 244 quality could have been better.,4,2024-03-06
+245,Product 245 quality could have been better.,5,2024-07-16
+246,I bought this product 246 and it works great!,4,2024-07-08
+247,Product 247 quality could have been better.,3,2024-05-03
+248,Product 248 quality could have been better.,1,2024-07-19
+249,I bought this product 249 and it works great!,1,2024-07-11
+250,Product 250 quality could have been better.,3,2024-02-14
+251,Product 251 quality could have been better.,3,2024-03-12
+252,I bought this product 252 and it works great!,3,2024-04-02
+253,Product 253 quality could have been better.,5,2024-05-08
+254,Product 254 quality could have been better.,2,2024-10-07
+255,I bought this product 255 and it works great!,3,2024-07-26
+256,Product 256 quality could have been better.,3,2024-07-16
+257,Product 257 quality could have been better.,3,2024-05-10
+258,I bought this product 258 and it works great!,5,2024-08-13
+259,Product 259 quality could have been better.,3,2024-04-13
+260,Product 260 quality could have been better.,1,2024-03-22
+261,I bought this product 261 and it works great!,3,2024-01-15
+262,Product 262 quality could have been better.,3,2024-05-19
+263,Product 263 quality could have been better.,4,2024-10-01
+264,I bought this product 264 and it works great!,4,2024-04-13
+265,Product 265 quality could have been better.,5,2024-05-07
+266,Product 266 quality could have been better.,5,2024-05-18
+267,I bought this product 267 and it works great!,1,2024-02-22
+268,Product 268 quality could have been better.,3,2024-03-22
+269,Product 269 quality could have been better.,4,2024-04-14
+270,I bought this product 270 and it works great!,1,2024-02-28
+271,Product 271 quality could have been better.,5,2024-08-06
+272,Product 272 quality could have been better.,5,2024-05-16
+273,I bought this product 273 and it works great!,3,2024-03-07
+274,Product 274 quality could have been better.,1,2024-01-19
+275,Product 275 quality could have been better.,5,2024-05-29
+276,I bought this product 276 and it works great!,3,2024-10-10
+277,Product 277 quality could have been better.,2,2024-03-17
+278,Product 278 quality could have been better.,4,2024-07-18
+279,I bought this product 279 and it works great!,1,2024-04-13
+280,Product 280 quality could have been better.,5,2024-10-02
+281,Product 281 quality could have been better.,4,2024-07-24
+282,I bought this product 282 and it works great!,5,2024-06-07
+283,Product 283 quality could have been better.,3,2024-09-23
+284,Product 284 quality could have been better.,5,2024-10-23
+285,I bought this product 285 and it works great!,1,2024-09-18
+286,Product 286 quality could have been better.,4,2024-09-25
+287,Product 287 quality could have been better.,5,2024-09-04
+288,I bought this product 288 and it works great!,2,2024-06-08
+289,Product 289 quality could have been better.,5,2024-09-17
+290,Product 290 quality could have been better.,2,2024-09-12
+291,I bought this product 291 and it works great!,1,2024-04-01
+292,Product 292 quality could have been better.,4,2024-09-01
+293,Product 293 quality could have been better.,5,2024-02-07
+294,I bought this product 294 and it works great!,3,2024-06-15
+295,Product 295 quality could have been better.,1,2024-07-09
+296,Product 296 quality could have been better.,2,2024-06-14
+297,I bought this product 297 and it works great!,2,2024-02-12
+298,Product 298 quality could have been better.,2,2024-10-10
+299,Product 299 quality could have been better.,2,2024-08-27
+300,I bought this product 300 and it works great!,2,2024-06-24

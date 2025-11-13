@@ -1,0 +1,301 @@
+tweet_id,username,tweet_text,likes,retweets,timestamp
+1,user_1,Great initiative for sustainability and eco packaging.,553,80,2024-01-01
+2,user_2,Highly recommend this product — excellent value!,728,220,2024-01-02
+3,user_3,Love the new product launch! Great innovation and design.,239,246,2024-01-03
+4,user_4,"Disappointed with the recent update, app keeps crashing.",552,234,2024-01-04
+5,user_5,This product didn’t live up to the hype.,122,298,2024-01-05
+6,user_6,Great initiative for sustainability and eco packaging.,464,296,2024-01-06
+7,user_7,"Disappointed with the recent update, app keeps crashing.",173,193,2024-01-07
+8,user_8,Love the new product launch! Great innovation and design.,962,36,2024-01-08
+9,user_9,Not happy with the delivery delay this week.,95,2,2024-01-09
+10,user_10,This brand keeps getting better every year!,626,122,2024-01-10
+11,user_11,Love the new product launch! Great innovation and design.,877,113,2024-01-11
+12,user_12,Highly recommend this product — excellent value!,923,208,2024-01-12
+13,user_13,"Disappointed with the recent update, app keeps crashing.",763,2,2024-01-13
+14,user_14,Amazing customer support — resolved my issue instantly!,471,105,2024-01-14
+15,user_15,I’m skeptical about the new pricing strategy.,214,57,2024-01-15
+16,user_16,Love the new product launch! Great innovation and design.,937,157,2024-01-16
+17,user_17,Highly recommend this product — excellent value!,129,189,2024-01-17
+18,user_18,Not happy with the delivery delay this week.,650,5,2024-01-18
+19,user_19,This brand keeps getting better every year!,828,166,2024-01-19
+20,user_20,Love the new product launch! Great innovation and design.,202,204,2024-01-20
+21,user_21,Great initiative for sustainability and eco packaging.,336,293,2024-01-21
+22,user_22,Amazing customer support — resolved my issue instantly!,846,248,2024-01-22
+23,user_23,This product didn’t live up to the hype.,454,39,2024-01-23
+24,user_24,Love the new product launch! Great innovation and design.,301,95,2024-01-24
+25,user_25,The ad campaign was creative but missed the mark.,418,213,2024-01-25
+26,user_26,Not happy with the delivery delay this week.,911,202,2024-01-26
+27,user_27,I’m skeptical about the new pricing strategy.,557,26,2024-01-27
+28,user_28,Love the new product launch! Great innovation and design.,119,21,2024-01-28
+29,user_29,"Disappointed with the recent update, app keeps crashing.",367,16,2024-01-29
+30,user_30,Love the new product launch! Great innovation and design.,53,221,2024-01-30
+31,user_31,Great initiative for sustainability and eco packaging.,950,182,2024-01-31
+32,user_32,This brand keeps getting better every year!,975,268,2024-02-01
+33,user_33,Great initiative for sustainability and eco packaging.,152,277,2024-02-02
+34,user_34,I’m skeptical about the new pricing strategy.,333,34,2024-02-03
+35,user_35,Highly recommend this product — excellent value!,891,101,2024-02-04
+36,user_36,Highly recommend this product — excellent value!,229,47,2024-02-05
+37,user_37,Love the new product launch! Great innovation and design.,889,128,2024-02-06
+38,user_38,Love the new product launch! Great innovation and design.,61,136,2024-02-07
+39,user_39,Great initiative for sustainability and eco packaging.,890,80,2024-02-08
+40,user_40,Highly recommend this product — excellent value!,87,264,2024-02-09
+41,user_41,This brand keeps getting better every year!,810,61,2024-02-10
+42,user_42,Not happy with the delivery delay this week.,74,269,2024-02-11
+43,user_43,Highly recommend this product — excellent value!,931,142,2024-02-12
+44,user_44,Amazing customer support — resolved my issue instantly!,811,199,2024-02-13
+45,user_45,Great initiative for sustainability and eco packaging.,679,115,2024-02-14
+46,user_46,The ad campaign was creative but missed the mark.,565,260,2024-02-15
+47,user_47,"Disappointed with the recent update, app keeps crashing.",304,50,2024-02-16
+48,user_48,This brand keeps getting better every year!,412,270,2024-02-17
+49,user_49,Love the new product launch! Great innovation and design.,774,8,2024-02-18
+50,user_50,The ad campaign was creative but missed the mark.,133,263,2024-02-19
+51,user_51,I’m skeptical about the new pricing strategy.,48,223,2024-02-20
+52,user_52,Great initiative for sustainability and eco packaging.,306,26,2024-02-21
+53,user_53,Not happy with the delivery delay this week.,90,93,2024-02-22
+54,user_54,"Disappointed with the recent update, app keeps crashing.",43,164,2024-02-23
+55,user_55,Great initiative for sustainability and eco packaging.,264,184,2024-02-24
+56,user_56,The ad campaign was creative but missed the mark.,384,250,2024-02-25
+57,user_57,This brand keeps getting better every year!,213,154,2024-02-26
+58,user_58,Not happy with the delivery delay this week.,481,212,2024-02-27
+59,user_59,The ad campaign was creative but missed the mark.,44,261,2024-02-28
+60,user_60,This brand keeps getting better every year!,417,276,2024-02-29
+61,user_61,Great initiative for sustainability and eco packaging.,385,294,2024-03-01
+62,user_62,"Disappointed with the recent update, app keeps crashing.",683,53,2024-03-02
+63,user_63,Great initiative for sustainability and eco packaging.,995,56,2024-03-03
+64,user_64,Great initiative for sustainability and eco packaging.,402,88,2024-03-04
+65,user_65,Love the new product launch! Great innovation and design.,848,234,2024-03-05
+66,user_66,This brand keeps getting better every year!,765,4,2024-03-06
+67,user_67,This product didn’t live up to the hype.,215,125,2024-03-07
+68,user_68,Great initiative for sustainability and eco packaging.,30,137,2024-03-08
+69,user_69,This brand keeps getting better every year!,604,218,2024-03-09
+70,user_70,This brand keeps getting better every year!,849,154,2024-03-10
+71,user_71,Not happy with the delivery delay this week.,265,108,2024-03-11
+72,user_72,I’m skeptical about the new pricing strategy.,906,14,2024-03-12
+73,user_73,The ad campaign was creative but missed the mark.,61,232,2024-03-13
+74,user_74,This brand keeps getting better every year!,120,105,2024-03-14
+75,user_75,"Disappointed with the recent update, app keeps crashing.",790,96,2024-03-15
+76,user_76,Great initiative for sustainability and eco packaging.,549,195,2024-03-16
+77,user_77,Amazing customer support — resolved my issue instantly!,945,121,2024-03-17
+78,user_78,I’m skeptical about the new pricing strategy.,825,238,2024-03-18
+79,user_79,Not happy with the delivery delay this week.,776,90,2024-03-19
+80,user_80,This brand keeps getting better every year!,524,68,2024-03-20
+81,user_81,Amazing customer support — resolved my issue instantly!,154,132,2024-03-21
+82,user_82,Love the new product launch! Great innovation and design.,848,25,2024-03-22
+83,user_83,Amazing customer support — resolved my issue instantly!,36,149,2024-03-23
+84,user_84,This product didn’t live up to the hype.,393,116,2024-03-24
+85,user_85,This brand keeps getting better every year!,183,260,2024-03-25
+86,user_86,The ad campaign was creative but missed the mark.,406,53,2024-03-26
+87,user_87,This product didn’t live up to the hype.,492,83,2024-03-27
+88,user_88,The ad campaign was creative but missed the mark.,152,295,2024-03-28
+89,user_89,Great initiative for sustainability and eco packaging.,234,176,2024-03-29
+90,user_90,This brand keeps getting better every year!,114,1,2024-03-30
+91,user_91,This brand keeps getting better every year!,986,142,2024-03-31
+92,user_92,This brand keeps getting better every year!,913,41,2024-04-01
+93,user_93,"Disappointed with the recent update, app keeps crashing.",800,119,2024-04-02
+94,user_94,Love the new product launch! Great innovation and design.,347,161,2024-04-03
+95,user_95,Amazing customer support — resolved my issue instantly!,820,271,2024-04-04
+96,user_96,"Disappointed with the recent update, app keeps crashing.",462,77,2024-04-05
+97,user_97,Love the new product launch! Great innovation and design.,645,266,2024-04-06
+98,user_98,"Disappointed with the recent update, app keeps crashing.",230,146,2024-04-07
+99,user_99,Highly recommend this product — excellent value!,507,265,2024-04-08
+100,user_100,I’m skeptical about the new pricing strategy.,29,211,2024-04-09
+101,user_101,The ad campaign was creative but missed the mark.,686,279,2024-04-10
+102,user_102,Love the new product launch! Great innovation and design.,531,130,2024-04-11
+103,user_103,"Disappointed with the recent update, app keeps crashing.",857,247,2024-04-12
+104,user_104,The ad campaign was creative but missed the mark.,880,262,2024-04-13
+105,user_105,Amazing customer support — resolved my issue instantly!,296,87,2024-04-14
+106,user_106,Highly recommend this product — excellent value!,400,111,2024-04-15
+107,user_107,Amazing customer support — resolved my issue instantly!,512,52,2024-04-16
+108,user_108,I’m skeptical about the new pricing strategy.,977,39,2024-04-17
+109,user_109,Not happy with the delivery delay this week.,707,3,2024-04-18
+110,user_110,Not happy with the delivery delay this week.,876,4,2024-04-19
+111,user_111,"Disappointed with the recent update, app keeps crashing.",90,90,2024-04-20
+112,user_112,Great initiative for sustainability and eco packaging.,70,149,2024-04-21
+113,user_113,The ad campaign was creative but missed the mark.,98,225,2024-04-22
+114,user_114,This product didn’t live up to the hype.,370,240,2024-04-23
+115,user_115,Highly recommend this product — excellent value!,904,263,2024-04-24
+116,user_116,"Disappointed with the recent update, app keeps crashing.",191,73,2024-04-25
+117,user_117,"Disappointed with the recent update, app keeps crashing.",895,197,2024-04-26
+118,user_118,"Disappointed with the recent update, app keeps crashing.",62,37,2024-04-27
+119,user_119,Great initiative for sustainability and eco packaging.,23,245,2024-04-28
+120,user_120,I’m skeptical about the new pricing strategy.,791,76,2024-04-29
+121,user_121,Not happy with the delivery delay this week.,791,56,2024-04-30
+122,user_122,Not happy with the delivery delay this week.,752,83,2024-05-01
+123,user_123,This product didn’t live up to the hype.,508,145,2024-05-02
+124,user_124,This brand keeps getting better every year!,555,34,2024-05-03
+125,user_125,Great initiative for sustainability and eco packaging.,897,293,2024-05-04
+126,user_126,Great initiative for sustainability and eco packaging.,337,47,2024-05-05
+127,user_127,Highly recommend this product — excellent value!,73,173,2024-05-06
+128,user_128,This product didn’t live up to the hype.,486,176,2024-05-07
+129,user_129,Amazing customer support — resolved my issue instantly!,595,203,2024-05-08
+130,user_130,Amazing customer support — resolved my issue instantly!,846,158,2024-05-09
+131,user_131,Great initiative for sustainability and eco packaging.,666,189,2024-05-10
+132,user_132,"Disappointed with the recent update, app keeps crashing.",650,60,2024-05-11
+133,user_133,Great initiative for sustainability and eco packaging.,832,23,2024-05-12
+134,user_134,Love the new product launch! Great innovation and design.,349,48,2024-05-13
+135,user_135,This product didn’t live up to the hype.,111,184,2024-05-14
+136,user_136,The ad campaign was creative but missed the mark.,92,1,2024-05-15
+137,user_137,This brand keeps getting better every year!,132,186,2024-05-16
+138,user_138,The ad campaign was creative but missed the mark.,651,229,2024-05-17
+139,user_139,Not happy with the delivery delay this week.,774,259,2024-05-18
+140,user_140,Highly recommend this product — excellent value!,527,158,2024-05-19
+141,user_141,Amazing customer support — resolved my issue instantly!,843,220,2024-05-20
+142,user_142,The ad campaign was creative but missed the mark.,443,133,2024-05-21
+143,user_143,Love the new product launch! Great innovation and design.,952,191,2024-05-22
+144,user_144,Highly recommend this product — excellent value!,34,60,2024-05-23
+145,user_145,The ad campaign was creative but missed the mark.,346,99,2024-05-24
+146,user_146,This brand keeps getting better every year!,892,43,2024-05-25
+147,user_147,"Disappointed with the recent update, app keeps crashing.",570,145,2024-05-26
+148,user_148,The ad campaign was creative but missed the mark.,130,238,2024-05-27
+149,user_149,Love the new product launch! Great innovation and design.,175,231,2024-05-28
+150,user_150,This product didn’t live up to the hype.,243,49,2024-05-29
+151,user_151,Great initiative for sustainability and eco packaging.,764,196,2024-05-30
+152,user_152,This brand keeps getting better every year!,720,242,2024-05-31
+153,user_153,Great initiative for sustainability and eco packaging.,727,38,2024-06-01
+154,user_154,Love the new product launch! Great innovation and design.,731,206,2024-06-02
+155,user_155,This brand keeps getting better every year!,589,218,2024-06-03
+156,user_156,Great initiative for sustainability and eco packaging.,811,7,2024-06-04
+157,user_157,Great initiative for sustainability and eco packaging.,235,176,2024-06-05
+158,user_158,"Disappointed with the recent update, app keeps crashing.",140,296,2024-06-06
+159,user_159,The ad campaign was creative but missed the mark.,327,130,2024-06-07
+160,user_160,Amazing customer support — resolved my issue instantly!,186,287,2024-06-08
+161,user_161,This brand keeps getting better every year!,443,182,2024-06-09
+162,user_162,I’m skeptical about the new pricing strategy.,425,117,2024-06-10
+163,user_163,This product didn’t live up to the hype.,331,269,2024-06-11
+164,user_164,This brand keeps getting better every year!,779,105,2024-06-12
+165,user_165,Amazing customer support — resolved my issue instantly!,436,187,2024-06-13
+166,user_166,I’m skeptical about the new pricing strategy.,762,258,2024-06-14
+167,user_167,Love the new product launch! Great innovation and design.,647,207,2024-06-15
+168,user_168,The ad campaign was creative but missed the mark.,760,242,2024-06-16
+169,user_169,Amazing customer support — resolved my issue instantly!,384,161,2024-06-17
+170,user_170,This brand keeps getting better every year!,799,284,2024-06-18
+171,user_171,Amazing customer support — resolved my issue instantly!,302,140,2024-06-19
+172,user_172,Not happy with the delivery delay this week.,425,114,2024-06-20
+173,user_173,I’m skeptical about the new pricing strategy.,37,123,2024-06-21
+174,user_174,Amazing customer support — resolved my issue instantly!,773,149,2024-06-22
+175,user_175,The ad campaign was creative but missed the mark.,180,33,2024-06-23
+176,user_176,Amazing customer support — resolved my issue instantly!,696,259,2024-06-24
+177,user_177,"Disappointed with the recent update, app keeps crashing.",976,255,2024-06-25
+178,user_178,Love the new product launch! Great innovation and design.,987,2,2024-06-26
+179,user_179,This brand keeps getting better every year!,880,194,2024-06-27
+180,user_180,Highly recommend this product — excellent value!,104,109,2024-06-28
+181,user_181,Highly recommend this product — excellent value!,263,185,2024-06-29
+182,user_182,Highly recommend this product — excellent value!,816,252,2024-06-30
+183,user_183,Great initiative for sustainability and eco packaging.,905,30,2024-07-01
+184,user_184,"Disappointed with the recent update, app keeps crashing.",805,39,2024-07-02
+185,user_185,I’m skeptical about the new pricing strategy.,960,113,2024-07-03
+186,user_186,This brand keeps getting better every year!,552,258,2024-07-04
+187,user_187,Great initiative for sustainability and eco packaging.,281,198,2024-07-05
+188,user_188,Highly recommend this product — excellent value!,325,73,2024-07-06
+189,user_189,This product didn’t live up to the hype.,996,227,2024-07-07
+190,user_190,Highly recommend this product — excellent value!,414,177,2024-07-08
+191,user_191,Love the new product launch! Great innovation and design.,683,152,2024-07-09
+192,user_192,This product didn’t live up to the hype.,341,123,2024-07-10
+193,user_193,This product didn’t live up to the hype.,576,23,2024-07-11
+194,user_194,"Disappointed with the recent update, app keeps crashing.",592,135,2024-07-12
+195,user_195,This product didn’t live up to the hype.,575,209,2024-07-13
+196,user_196,The ad campaign was creative but missed the mark.,365,164,2024-07-14
+197,user_197,Amazing customer support — resolved my issue instantly!,496,143,2024-07-15
+198,user_198,Great initiative for sustainability and eco packaging.,24,296,2024-07-16
+199,user_199,"Disappointed with the recent update, app keeps crashing.",443,23,2024-07-17
+200,user_200,Great initiative for sustainability and eco packaging.,957,180,2024-07-18
+201,user_201,Highly recommend this product — excellent value!,856,276,2024-07-19
+202,user_202,"Disappointed with the recent update, app keeps crashing.",476,24,2024-07-20
+203,user_203,This brand keeps getting better every year!,820,74,2024-07-21
+204,user_204,Highly recommend this product — excellent value!,707,16,2024-07-22
+205,user_205,Highly recommend this product — excellent value!,347,73,2024-07-23
+206,user_206,Not happy with the delivery delay this week.,551,177,2024-07-24
+207,user_207,"Disappointed with the recent update, app keeps crashing.",660,198,2024-07-25
+208,user_208,This brand keeps getting better every year!,911,271,2024-07-26
+209,user_209,"Disappointed with the recent update, app keeps crashing.",616,232,2024-07-27
+210,user_210,"Disappointed with the recent update, app keeps crashing.",985,263,2024-07-28
+211,user_211,Amazing customer support — resolved my issue instantly!,947,15,2024-07-29
+212,user_212,Not happy with the delivery delay this week.,549,44,2024-07-30
+213,user_213,I’m skeptical about the new pricing strategy.,784,189,2024-07-31
+214,user_214,Not happy with the delivery delay this week.,194,113,2024-08-01
+215,user_215,This product didn’t live up to the hype.,254,294,2024-08-02
+216,user_216,"Disappointed with the recent update, app keeps crashing.",780,123,2024-08-03
+217,user_217,This product didn’t live up to the hype.,85,23,2024-08-04
+218,user_218,This brand keeps getting better every year!,519,170,2024-08-05
+219,user_219,I’m skeptical about the new pricing strategy.,19,123,2024-08-06
+220,user_220,Not happy with the delivery delay this week.,593,204,2024-08-07
+221,user_221,Great initiative for sustainability and eco packaging.,47,112,2024-08-08
+222,user_222,I’m skeptical about the new pricing strategy.,60,241,2024-08-09
+223,user_223,Highly recommend this product — excellent value!,588,290,2024-08-10
+224,user_224,Love the new product launch! Great innovation and design.,820,252,2024-08-11
+225,user_225,I’m skeptical about the new pricing strategy.,77,284,2024-08-12
+226,user_226,Highly recommend this product — excellent value!,329,196,2024-08-13
+227,user_227,The ad campaign was creative but missed the mark.,720,14,2024-08-14
+228,user_228,I’m skeptical about the new pricing strategy.,873,257,2024-08-15
+229,user_229,Love the new product launch! Great innovation and design.,991,165,2024-08-16
+230,user_230,I’m skeptical about the new pricing strategy.,764,37,2024-08-17
+231,user_231,The ad campaign was creative but missed the mark.,847,2,2024-08-18
+232,user_232,This brand keeps getting better every year!,251,208,2024-08-19
+233,user_233,This product didn’t live up to the hype.,687,91,2024-08-20
+234,user_234,This brand keeps getting better every year!,680,171,2024-08-21
+235,user_235,This brand keeps getting better every year!,869,50,2024-08-22
+236,user_236,"Disappointed with the recent update, app keeps crashing.",477,260,2024-08-23
+237,user_237,"Disappointed with the recent update, app keeps crashing.",164,181,2024-08-24
+238,user_238,Highly recommend this product — excellent value!,430,283,2024-08-25
+239,user_239,The ad campaign was creative but missed the mark.,104,92,2024-08-26
+240,user_240,Amazing customer support — resolved my issue instantly!,880,92,2024-08-27
+241,user_241,Not happy with the delivery delay this week.,741,11,2024-08-28
+242,user_242,Not happy with the delivery delay this week.,375,182,2024-08-29
+243,user_243,The ad campaign was creative but missed the mark.,484,86,2024-08-30
+244,user_244,The ad campaign was creative but missed the mark.,889,205,2024-08-31
+245,user_245,The ad campaign was creative but missed the mark.,531,133,2024-09-01
+246,user_246,Highly recommend this product — excellent value!,456,15,2024-09-02
+247,user_247,This brand keeps getting better every year!,357,85,2024-09-03
+248,user_248,Great initiative for sustainability and eco packaging.,60,95,2024-09-04
+249,user_249,Amazing customer support — resolved my issue instantly!,517,67,2024-09-05
+250,user_250,Not happy with the delivery delay this week.,125,41,2024-09-06
+251,user_251,This brand keeps getting better every year!,629,280,2024-09-07
+252,user_252,This product didn’t live up to the hype.,706,159,2024-09-08
+253,user_253,Not happy with the delivery delay this week.,706,241,2024-09-09
+254,user_254,Love the new product launch! Great innovation and design.,77,257,2024-09-10
+255,user_255,This product didn’t live up to the hype.,270,36,2024-09-11
+256,user_256,"Disappointed with the recent update, app keeps crashing.",634,186,2024-09-12
+257,user_257,This brand keeps getting better every year!,940,122,2024-09-13
+258,user_258,Amazing customer support — resolved my issue instantly!,10,158,2024-09-14
+259,user_259,Great initiative for sustainability and eco packaging.,39,34,2024-09-15
+260,user_260,Great initiative for sustainability and eco packaging.,424,49,2024-09-16
+261,user_261,Amazing customer support — resolved my issue instantly!,478,195,2024-09-17
+262,user_262,Amazing customer support — resolved my issue instantly!,788,130,2024-09-18
+263,user_263,This brand keeps getting better every year!,517,33,2024-09-19
+264,user_264,I’m skeptical about the new pricing strategy.,774,6,2024-09-20
+265,user_265,Love the new product launch! Great innovation and design.,459,242,2024-09-21
+266,user_266,Amazing customer support — resolved my issue instantly!,278,210,2024-09-22
+267,user_267,The ad campaign was creative but missed the mark.,521,172,2024-09-23
+268,user_268,I’m skeptical about the new pricing strategy.,644,100,2024-09-24
+269,user_269,The ad campaign was creative but missed the mark.,450,137,2024-09-25
+270,user_270,This product didn’t live up to the hype.,255,269,2024-09-26
+271,user_271,The ad campaign was creative but missed the mark.,930,26,2024-09-27
+272,user_272,I’m skeptical about the new pricing strategy.,170,233,2024-09-28
+273,user_273,Amazing customer support — resolved my issue instantly!,517,165,2024-09-29
+274,user_274,Love the new product launch! Great innovation and design.,912,251,2024-09-30
+275,user_275,Not happy with the delivery delay this week.,437,151,2024-10-01
+276,user_276,Highly recommend this product — excellent value!,310,223,2024-10-02
+277,user_277,Highly recommend this product — excellent value!,235,33,2024-10-03
+278,user_278,Highly recommend this product — excellent value!,204,226,2024-10-04
+279,user_279,Amazing customer support — resolved my issue instantly!,201,114,2024-10-05
+280,user_280,Love the new product launch! Great innovation and design.,623,209,2024-10-06
+281,user_281,Amazing customer support — resolved my issue instantly!,640,243,2024-10-07
+282,user_282,I’m skeptical about the new pricing strategy.,889,204,2024-10-08
+283,user_283,The ad campaign was creative but missed the mark.,551,95,2024-10-09
+284,user_284,Love the new product launch! Great innovation and design.,739,141,2024-10-10
+285,user_285,Not happy with the delivery delay this week.,878,98,2024-10-11
+286,user_286,This brand keeps getting better every year!,200,119,2024-10-12
+287,user_287,This product didn’t live up to the hype.,424,94,2024-10-13
+288,user_288,"Disappointed with the recent update, app keeps crashing.",85,31,2024-10-14
+289,user_289,Great initiative for sustainability and eco packaging.,133,238,2024-10-15
+290,user_290,Highly recommend this product — excellent value!,348,137,2024-10-16
+291,user_291,Great initiative for sustainability and eco packaging.,110,102,2024-10-17
+292,user_292,Highly recommend this product — excellent value!,590,228,2024-10-18
+293,user_293,This product didn’t live up to the hype.,105,151,2024-10-19
+294,user_294,This product didn’t live up to the hype.,598,168,2024-10-20
+295,user_295,This brand keeps getting better every year!,906,94,2024-10-21
+296,user_296,"Disappointed with the recent update, app keeps crashing.",107,34,2024-10-22
+297,user_297,Highly recommend this product — excellent value!,802,286,2024-10-23
+298,user_298,Highly recommend this product — excellent value!,472,138,2024-10-24
+299,user_299,This product didn’t live up to the hype.,277,223,2024-10-25
+300,user_300,Not happy with the delivery delay this week.,320,148,2024-10-26

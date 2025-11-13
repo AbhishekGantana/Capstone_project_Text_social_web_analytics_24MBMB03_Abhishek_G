@@ -1,0 +1,301 @@
+tweet_id,tweet_text,likes,retweets,date
+1,"Negative reactions increasing for product 1, users complaining online.",456,88,2024-01-08
+2,"People are talking about product launch 2, expectations look positive!",125,191,2024-08-23
+3,"Negative reactions increasing for product 3, users complaining online.",316,39,2024-07-14
+4,"People are talking about product launch 4, expectations look positive!",48,163,2024-09-07
+5,"Negative reactions increasing for product 5, users complaining online.",453,197,2024-01-27
+6,"People are talking about product launch 6, expectations look positive!",407,172,2024-06-25
+7,"Negative reactions increasing for product 7, users complaining online.",448,219,2024-02-02
+8,"People are talking about product launch 8, expectations look positive!",363,20,2024-09-11
+9,"Negative reactions increasing for product 9, users complaining online.",146,110,2024-05-30
+10,"People are talking about product launch 10, expectations look positive!",107,175,2024-09-01
+11,"Negative reactions increasing for product 11, users complaining online.",478,24,2024-05-29
+12,"People are talking about product launch 12, expectations look positive!",79,20,2024-05-11
+13,"Negative reactions increasing for product 13, users complaining online.",265,76,2024-02-02
+14,"People are talking about product launch 14, expectations look positive!",228,148,2024-05-31
+15,"Negative reactions increasing for product 15, users complaining online.",426,245,2024-07-18
+16,"People are talking about product launch 16, expectations look positive!",376,42,2024-02-27
+17,"Negative reactions increasing for product 17, users complaining online.",271,264,2024-04-30
+18,"People are talking about product launch 18, expectations look positive!",213,252,2024-01-13
+19,"Negative reactions increasing for product 19, users complaining online.",86,101,2024-02-16
+20,"People are talking about product launch 20, expectations look positive!",446,219,2024-08-28
+21,"Negative reactions increasing for product 21, users complaining online.",468,163,2024-09-26
+22,"People are talking about product launch 22, expectations look positive!",113,230,2024-06-14
+23,"Negative reactions increasing for product 23, users complaining online.",138,229,2024-08-15
+24,"People are talking about product launch 24, expectations look positive!",69,28,2024-08-10
+25,"Negative reactions increasing for product 25, users complaining online.",256,119,2024-02-13
+26,"People are talking about product launch 26, expectations look positive!",358,237,2024-10-07
+27,"Negative reactions increasing for product 27, users complaining online.",490,255,2024-07-29
+28,"People are talking about product launch 28, expectations look positive!",43,109,2024-07-30
+29,"Negative reactions increasing for product 29, users complaining online.",164,283,2024-02-14
+30,"People are talking about product launch 30, expectations look positive!",141,245,2024-04-02
+31,"Negative reactions increasing for product 31, users complaining online.",95,287,2024-02-28
+32,"People are talking about product launch 32, expectations look positive!",3,11,2024-10-11
+33,"Negative reactions increasing for product 33, users complaining online.",422,245,2024-09-16
+34,"People are talking about product launch 34, expectations look positive!",286,237,2024-08-05
+35,"Negative reactions increasing for product 35, users complaining online.",331,72,2024-04-30
+36,"People are talking about product launch 36, expectations look positive!",435,215,2024-01-05
+37,"Negative reactions increasing for product 37, users complaining online.",45,130,2024-07-13
+38,"People are talking about product launch 38, expectations look positive!",376,70,2024-06-12
+39,"Negative reactions increasing for product 39, users complaining online.",82,168,2024-03-06
+40,"People are talking about product launch 40, expectations look positive!",13,288,2024-10-10
+41,"Negative reactions increasing for product 41, users complaining online.",224,199,2024-06-28
+42,"People are talking about product launch 42, expectations look positive!",180,248,2024-09-16
+43,"Negative reactions increasing for product 43, users complaining online.",347,16,2024-07-04
+44,"People are talking about product launch 44, expectations look positive!",264,225,2024-10-01
+45,"Negative reactions increasing for product 45, users complaining online.",401,271,2024-07-02
+46,"People are talking about product launch 46, expectations look positive!",76,141,2024-03-22
+47,"Negative reactions increasing for product 47, users complaining online.",215,298,2024-09-11
+48,"People are talking about product launch 48, expectations look positive!",397,181,2024-01-14
+49,"Negative reactions increasing for product 49, users complaining online.",465,43,2024-03-02
+50,"People are talking about product launch 50, expectations look positive!",340,171,2024-05-12
+51,"Negative reactions increasing for product 51, users complaining online.",143,206,2024-05-06
+52,"People are talking about product launch 52, expectations look positive!",87,58,2024-07-03
+53,"Negative reactions increasing for product 53, users complaining online.",334,246,2024-05-11
+54,"People are talking about product launch 54, expectations look positive!",185,257,2024-04-30
+55,"Negative reactions increasing for product 55, users complaining online.",252,123,2024-09-06
+56,"People are talking about product launch 56, expectations look positive!",35,271,2024-04-17
+57,"Negative reactions increasing for product 57, users complaining online.",343,200,2024-07-11
+58,"People are talking about product launch 58, expectations look positive!",257,75,2024-10-05
+59,"Negative reactions increasing for product 59, users complaining online.",183,3,2024-03-31
+60,"People are talking about product launch 60, expectations look positive!",80,201,2024-02-02
+61,"Negative reactions increasing for product 61, users complaining online.",185,249,2024-06-21
+62,"People are talking about product launch 62, expectations look positive!",234,57,2024-08-24
+63,"Negative reactions increasing for product 63, users complaining online.",103,254,2024-09-07
+64,"People are talking about product launch 64, expectations look positive!",62,77,2024-10-11
+65,"Negative reactions increasing for product 65, users complaining online.",193,297,2024-02-23
+66,"People are talking about product launch 66, expectations look positive!",381,162,2024-09-05
+67,"Negative reactions increasing for product 67, users complaining online.",354,113,2024-05-31
+68,"People are talking about product launch 68, expectations look positive!",65,175,2024-05-14
+69,"Negative reactions increasing for product 69, users complaining online.",93,49,2024-02-25
+70,"People are talking about product launch 70, expectations look positive!",131,168,2024-04-23
+71,"Negative reactions increasing for product 71, users complaining online.",405,114,2024-06-23
+72,"People are talking about product launch 72, expectations look positive!",234,43,2024-09-25
+73,"Negative reactions increasing for product 73, users complaining online.",210,255,2024-02-17
+74,"People are talking about product launch 74, expectations look positive!",379,285,2024-08-05
+75,"Negative reactions increasing for product 75, users complaining online.",215,160,2024-02-12
+76,"People are talking about product launch 76, expectations look positive!",230,50,2024-02-26
+77,"Negative reactions increasing for product 77, users complaining online.",16,43,2024-08-29
+78,"People are talking about product launch 78, expectations look positive!",343,245,2024-01-07
+79,"Negative reactions increasing for product 79, users complaining online.",224,39,2024-03-07
+80,"People are talking about product launch 80, expectations look positive!",476,133,2024-04-23
+81,"Negative reactions increasing for product 81, users complaining online.",31,178,2024-05-21
+82,"People are talking about product launch 82, expectations look positive!",479,74,2024-05-19
+83,"Negative reactions increasing for product 83, users complaining online.",349,294,2024-09-09
+84,"People are talking about product launch 84, expectations look positive!",230,202,2024-01-26
+85,"Negative reactions increasing for product 85, users complaining online.",332,19,2024-06-29
+86,"People are talking about product launch 86, expectations look positive!",356,181,2024-07-01
+87,"Negative reactions increasing for product 87, users complaining online.",7,196,2024-09-22
+88,"People are talking about product launch 88, expectations look positive!",477,110,2024-10-20
+89,"Negative reactions increasing for product 89, users complaining online.",258,299,2024-06-10
+90,"People are talking about product launch 90, expectations look positive!",162,91,2024-02-23
+91,"Negative reactions increasing for product 91, users complaining online.",49,270,2024-04-28
+92,"People are talking about product launch 92, expectations look positive!",251,113,2024-03-04
+93,"Negative reactions increasing for product 93, users complaining online.",409,172,2024-02-28
+94,"People are talking about product launch 94, expectations look positive!",326,225,2024-04-26
+95,"Negative reactions increasing for product 95, users complaining online.",301,290,2024-03-11
+96,"People are talking about product launch 96, expectations look positive!",8,152,2024-07-09
+97,"Negative reactions increasing for product 97, users complaining online.",472,65,2024-09-22
+98,"People are talking about product launch 98, expectations look positive!",408,207,2024-10-14
+99,"Negative reactions increasing for product 99, users complaining online.",125,241,2024-07-08
+100,"People are talking about product launch 100, expectations look positive!",246,59,2024-02-25
+101,"Negative reactions increasing for product 101, users complaining online.",472,243,2024-03-03
+102,"People are talking about product launch 102, expectations look positive!",234,165,2024-01-30
+103,"Negative reactions increasing for product 103, users complaining online.",7,159,2024-07-29
+104,"People are talking about product launch 104, expectations look positive!",278,171,2024-08-19
+105,"Negative reactions increasing for product 105, users complaining online.",167,190,2024-07-01
+106,"People are talking about product launch 106, expectations look positive!",392,162,2024-01-21
+107,"Negative reactions increasing for product 107, users complaining online.",205,267,2024-05-22
+108,"People are talking about product launch 108, expectations look positive!",23,25,2024-02-23
+109,"Negative reactions increasing for product 109, users complaining online.",494,230,2024-09-19
+110,"People are talking about product launch 110, expectations look positive!",319,179,2024-10-04
+111,"Negative reactions increasing for product 111, users complaining online.",15,168,2024-01-02
+112,"People are talking about product launch 112, expectations look positive!",94,164,2024-03-25
+113,"Negative reactions increasing for product 113, users complaining online.",91,45,2024-03-10
+114,"People are talking about product launch 114, expectations look positive!",60,252,2024-09-24
+115,"Negative reactions increasing for product 115, users complaining online.",15,176,2024-08-18
+116,"People are talking about product launch 116, expectations look positive!",362,210,2024-03-31
+117,"Negative reactions increasing for product 117, users complaining online.",181,267,2024-02-06
+118,"People are talking about product launch 118, expectations look positive!",407,84,2024-06-03
+119,"Negative reactions increasing for product 119, users complaining online.",79,42,2024-05-20
+120,"People are talking about product launch 120, expectations look positive!",235,93,2024-08-12
+121,"Negative reactions increasing for product 121, users complaining online.",185,123,2024-09-19
+122,"People are talking about product launch 122, expectations look positive!",147,153,2024-04-12
+123,"Negative reactions increasing for product 123, users complaining online.",340,169,2024-03-07
+124,"People are talking about product launch 124, expectations look positive!",493,280,2024-01-13
+125,"Negative reactions increasing for product 125, users complaining online.",451,180,2024-10-02
+126,"People are talking about product launch 126, expectations look positive!",135,182,2024-07-05
+127,"Negative reactions increasing for product 127, users complaining online.",146,151,2024-01-15
+128,"People are talking about product launch 128, expectations look positive!",214,148,2024-10-24
+129,"Negative reactions increasing for product 129, users complaining online.",302,181,2024-03-31
+130,"People are talking about product launch 130, expectations look positive!",136,74,2024-02-01
+131,"Negative reactions increasing for product 131, users complaining online.",357,124,2024-02-13
+132,"People are talking about product launch 132, expectations look positive!",204,193,2024-08-25
+133,"Negative reactions increasing for product 133, users complaining online.",381,261,2024-05-29
+134,"People are talking about product launch 134, expectations look positive!",294,293,2024-08-17
+135,"Negative reactions increasing for product 135, users complaining online.",434,8,2024-02-18
+136,"People are talking about product launch 136, expectations look positive!",85,99,2024-04-16
+137,"Negative reactions increasing for product 137, users complaining online.",415,122,2024-03-31
+138,"People are talking about product launch 138, expectations look positive!",224,205,2024-10-18
+139,"Negative reactions increasing for product 139, users complaining online.",384,251,2024-02-14
+140,"People are talking about product launch 140, expectations look positive!",290,275,2024-04-03
+141,"Negative reactions increasing for product 141, users complaining online.",442,27,2024-03-04
+142,"People are talking about product launch 142, expectations look positive!",70,273,2024-07-21
+143,"Negative reactions increasing for product 143, users complaining online.",185,216,2024-10-14
+144,"People are talking about product launch 144, expectations look positive!",430,202,2024-07-20
+145,"Negative reactions increasing for product 145, users complaining online.",209,130,2024-04-04
+146,"People are talking about product launch 146, expectations look positive!",34,100,2024-07-08
+147,"Negative reactions increasing for product 147, users complaining online.",32,266,2024-06-05
+148,"People are talking about product launch 148, expectations look positive!",77,49,2024-02-29
+149,"Negative reactions increasing for product 149, users complaining online.",305,53,2024-08-16
+150,"People are talking about product launch 150, expectations look positive!",265,62,2024-01-28
+151,"Negative reactions increasing for product 151, users complaining online.",72,241,2024-01-19
+152,"People are talking about product launch 152, expectations look positive!",142,142,2024-05-28
+153,"Negative reactions increasing for product 153, users complaining online.",264,42,2024-04-28
+154,"People are talking about product launch 154, expectations look positive!",166,124,2024-10-17
+155,"Negative reactions increasing for product 155, users complaining online.",103,152,2024-04-23
+156,"People are talking about product launch 156, expectations look positive!",464,25,2024-08-03
+157,"Negative reactions increasing for product 157, users complaining online.",138,182,2024-09-01
+158,"People are talking about product launch 158, expectations look positive!",138,183,2024-06-28
+159,"Negative reactions increasing for product 159, users complaining online.",139,232,2024-08-12
+160,"People are talking about product launch 160, expectations look positive!",405,139,2024-06-14
+161,"Negative reactions increasing for product 161, users complaining online.",193,53,2024-02-07
+162,"People are talking about product launch 162, expectations look positive!",300,123,2024-07-16
+163,"Negative reactions increasing for product 163, users complaining online.",320,11,2024-06-19
+164,"People are talking about product launch 164, expectations look positive!",36,261,2024-09-03
+165,"Negative reactions increasing for product 165, users complaining online.",135,254,2024-05-20
+166,"People are talking about product launch 166, expectations look positive!",39,35,2024-10-13
+167,"Negative reactions increasing for product 167, users complaining online.",425,191,2024-10-15
+168,"People are talking about product launch 168, expectations look positive!",437,122,2024-08-25
+169,"Negative reactions increasing for product 169, users complaining online.",246,8,2024-05-10
+170,"People are talking about product launch 170, expectations look positive!",146,211,2024-09-09
+171,"Negative reactions increasing for product 171, users complaining online.",39,58,2024-03-10
+172,"People are talking about product launch 172, expectations look positive!",361,17,2024-08-07
+173,"Negative reactions increasing for product 173, users complaining online.",397,161,2024-02-02
+174,"People are talking about product launch 174, expectations look positive!",61,210,2024-04-21
+175,"Negative reactions increasing for product 175, users complaining online.",62,249,2024-05-30
+176,"People are talking about product launch 176, expectations look positive!",481,117,2024-09-25
+177,"Negative reactions increasing for product 177, users complaining online.",93,197,2024-10-18
+178,"People are talking about product launch 178, expectations look positive!",2,53,2024-03-09
+179,"Negative reactions increasing for product 179, users complaining online.",45,44,2024-06-24
+180,"People are talking about product launch 180, expectations look positive!",422,193,2024-01-22
+181,"Negative reactions increasing for product 181, users complaining online.",70,293,2024-03-07
+182,"People are talking about product launch 182, expectations look positive!",329,238,2024-07-20
+183,"Negative reactions increasing for product 183, users complaining online.",270,14,2024-04-19
+184,"People are talking about product launch 184, expectations look positive!",83,25,2024-01-06
+185,"Negative reactions increasing for product 185, users complaining online.",370,240,2024-06-04
+186,"People are talking about product launch 186, expectations look positive!",151,167,2024-08-15
+187,"Negative reactions increasing for product 187, users complaining online.",454,21,2024-05-02
+188,"People are talking about product launch 188, expectations look positive!",188,260,2024-03-20
+189,"Negative reactions increasing for product 189, users complaining online.",334,251,2024-09-22
+190,"People are talking about product launch 190, expectations look positive!",286,281,2024-03-30
+191,"Negative reactions increasing for product 191, users complaining online.",368,293,2024-02-01
+192,"People are talking about product launch 192, expectations look positive!",350,169,2024-09-28
+193,"Negative reactions increasing for product 193, users complaining online.",359,186,2024-10-16
+194,"People are talking about product launch 194, expectations look positive!",319,267,2024-03-23
+195,"Negative reactions increasing for product 195, users complaining online.",276,136,2024-03-05
+196,"People are talking about product launch 196, expectations look positive!",47,113,2024-02-25
+197,"Negative reactions increasing for product 197, users complaining online.",105,70,2024-08-23
+198,"People are talking about product launch 198, expectations look positive!",408,84,2024-08-03
+199,"Negative reactions increasing for product 199, users complaining online.",209,8,2024-08-23
+200,"People are talking about product launch 200, expectations look positive!",408,159,2024-08-30
+201,"Negative reactions increasing for product 201, users complaining online.",184,222,2024-06-22
+202,"People are talking about product launch 202, expectations look positive!",62,290,2024-04-20
+203,"Negative reactions increasing for product 203, users complaining online.",180,112,2024-09-18
+204,"People are talking about product launch 204, expectations look positive!",267,223,2024-02-11
+205,"Negative reactions increasing for product 205, users complaining online.",301,273,2024-04-11
+206,"People are talking about product launch 206, expectations look positive!",267,296,2024-02-25
+207,"Negative reactions increasing for product 207, users complaining online.",187,275,2024-10-06
+208,"People are talking about product launch 208, expectations look positive!",108,207,2024-05-15
+209,"Negative reactions increasing for product 209, users complaining online.",196,224,2024-01-04
+210,"People are talking about product launch 210, expectations look positive!",246,15,2024-04-04
+211,"Negative reactions increasing for product 211, users complaining online.",144,78,2024-03-21
+212,"People are talking about product launch 212, expectations look positive!",430,73,2024-03-19
+213,"Negative reactions increasing for product 213, users complaining online.",237,111,2024-09-17
+214,"People are talking about product launch 214, expectations look positive!",426,224,2024-09-05
+215,"Negative reactions increasing for product 215, users complaining online.",250,197,2024-08-09
+216,"People are talking about product launch 216, expectations look positive!",71,217,2024-06-26
+217,"Negative reactions increasing for product 217, users complaining online.",412,40,2024-08-06
+218,"People are talking about product launch 218, expectations look positive!",345,275,2024-08-08
+219,"Negative reactions increasing for product 219, users complaining online.",48,130,2024-06-22
+220,"People are talking about product launch 220, expectations look positive!",465,77,2024-03-29
+221,"Negative reactions increasing for product 221, users complaining online.",461,287,2024-01-28
+222,"People are talking about product launch 222, expectations look positive!",464,91,2024-06-04
+223,"Negative reactions increasing for product 223, users complaining online.",264,248,2024-03-02
+224,"People are talking about product launch 224, expectations look positive!",78,29,2024-06-09
+225,"Negative reactions increasing for product 225, users complaining online.",308,205,2024-03-04
+226,"People are talking about product launch 226, expectations look positive!",357,0,2024-01-23
+227,"Negative reactions increasing for product 227, users complaining online.",376,158,2024-07-22
+228,"People are talking about product launch 228, expectations look positive!",246,270,2024-09-02
+229,"Negative reactions increasing for product 229, users complaining online.",455,46,2024-05-19
+230,"People are talking about product launch 230, expectations look positive!",340,157,2024-09-14
+231,"Negative reactions increasing for product 231, users complaining online.",109,283,2024-05-22
+232,"People are talking about product launch 232, expectations look positive!",331,125,2024-06-23
+233,"Negative reactions increasing for product 233, users complaining online.",211,68,2024-07-29
+234,"People are talking about product launch 234, expectations look positive!",257,159,2024-09-18
+235,"Negative reactions increasing for product 235, users complaining online.",287,116,2024-08-13
+236,"People are talking about product launch 236, expectations look positive!",474,12,2024-06-15
+237,"Negative reactions increasing for product 237, users complaining online.",378,20,2024-03-02
+238,"People are talking about product launch 238, expectations look positive!",442,290,2024-10-02
+239,"Negative reactions increasing for product 239, users complaining online.",133,251,2024-10-13
+240,"People are talking about product launch 240, expectations look positive!",427,218,2024-02-01
+241,"Negative reactions increasing for product 241, users complaining online.",79,147,2024-09-19
+242,"People are talking about product launch 242, expectations look positive!",202,84,2024-05-11
+243,"Negative reactions increasing for product 243, users complaining online.",248,13,2024-01-15
+244,"People are talking about product launch 244, expectations look positive!",439,267,2024-04-22
+245,"Negative reactions increasing for product 245, users complaining online.",477,7,2024-08-25
+246,"People are talking about product launch 246, expectations look positive!",308,131,2024-01-15
+247,"Negative reactions increasing for product 247, users complaining online.",259,70,2024-06-17
+248,"People are talking about product launch 248, expectations look positive!",280,202,2024-05-16
+249,"Negative reactions increasing for product 249, users complaining online.",363,43,2024-09-17
+250,"People are talking about product launch 250, expectations look positive!",2,46,2024-05-20
+251,"Negative reactions increasing for product 251, users complaining online.",11,32,2024-06-05
+252,"People are talking about product launch 252, expectations look positive!",306,66,2024-01-30
+253,"Negative reactions increasing for product 253, users complaining online.",428,53,2024-01-13
+254,"People are talking about product launch 254, expectations look positive!",458,172,2024-10-03
+255,"Negative reactions increasing for product 255, users complaining online.",266,85,2024-10-15
+256,"People are talking about product launch 256, expectations look positive!",319,252,2024-06-12
+257,"Negative reactions increasing for product 257, users complaining online.",15,154,2024-08-12
+258,"People are talking about product launch 258, expectations look positive!",231,273,2024-07-10
+259,"Negative reactions increasing for product 259, users complaining online.",311,97,2024-03-02
+260,"People are talking about product launch 260, expectations look positive!",322,227,2024-02-29
+261,"Negative reactions increasing for product 261, users complaining online.",226,276,2024-03-29
+262,"People are talking about product launch 262, expectations look positive!",251,138,2024-07-23
+263,"Negative reactions increasing for product 263, users complaining online.",312,34,2024-02-27
+264,"People are talking about product launch 264, expectations look positive!",244,240,2024-01-02
+265,"Negative reactions increasing for product 265, users complaining online.",200,58,2024-04-17
+266,"People are talking about product launch 266, expectations look positive!",200,62,2024-05-17
+267,"Negative reactions increasing for product 267, users complaining online.",21,244,2024-06-09
+268,"People are talking about product launch 268, expectations look positive!",174,202,2024-05-12
+269,"Negative reactions increasing for product 269, users complaining online.",67,143,2024-09-08
+270,"People are talking about product launch 270, expectations look positive!",272,85,2024-01-14
+271,"Negative reactions increasing for product 271, users complaining online.",75,51,2024-05-25
+272,"People are talking about product launch 272, expectations look positive!",137,190,2024-07-30
+273,"Negative reactions increasing for product 273, users complaining online.",205,63,2024-09-15
+274,"People are talking about product launch 274, expectations look positive!",384,245,2024-06-17
+275,"Negative reactions increasing for product 275, users complaining online.",144,203,2024-04-25
+276,"People are talking about product launch 276, expectations look positive!",98,214,2024-02-25
+277,"Negative reactions increasing for product 277, users complaining online.",320,276,2024-04-08
+278,"People are talking about product launch 278, expectations look positive!",366,35,2024-09-11
+279,"Negative reactions increasing for product 279, users complaining online.",494,260,2024-01-27
+280,"People are talking about product launch 280, expectations look positive!",232,89,2024-10-19
+281,"Negative reactions increasing for product 281, users complaining online.",408,98,2024-05-04
+282,"People are talking about product launch 282, expectations look positive!",190,259,2024-08-05
+283,"Negative reactions increasing for product 283, users complaining online.",88,197,2024-05-18
+284,"People are talking about product launch 284, expectations look positive!",77,174,2024-08-02
+285,"Negative reactions increasing for product 285, users complaining online.",124,299,2024-06-15
+286,"People are talking about product launch 286, expectations look positive!",110,128,2024-06-30
+287,"Negative reactions increasing for product 287, users complaining online.",406,107,2024-02-05
+288,"People are talking about product launch 288, expectations look positive!",227,200,2024-03-29
+289,"Negative reactions increasing for product 289, users complaining online.",350,211,2024-07-10
+290,"People are talking about product launch 290, expectations look positive!",224,208,2024-02-20
+291,"Negative reactions increasing for product 291, users complaining online.",0,161,2024-10-05
+292,"People are talking about product launch 292, expectations look positive!",81,183,2024-07-27
+293,"Negative reactions increasing for product 293, users complaining online.",188,39,2024-01-09
+294,"People are talking about product launch 294, expectations look positive!",368,294,2024-03-08
+295,"Negative reactions increasing for product 295, users complaining online.",291,98,2024-07-11
+296,"People are talking about product launch 296, expectations look positive!",381,157,2024-06-20
+297,"Negative reactions increasing for product 297, users complaining online.",297,232,2024-06-06
+298,"People are talking about product launch 298, expectations look positive!",244,104,2024-10-14
+299,"Negative reactions increasing for product 299, users complaining online.",386,71,2024-02-11
+300,"People are talking about product launch 300, expectations look positive!",375,144,2024-09-09

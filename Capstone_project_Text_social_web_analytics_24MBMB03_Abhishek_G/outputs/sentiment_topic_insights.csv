@@ -1,0 +1,4 @@
+Dataset,Average Sentiment,Most Positive Topic
+tweets,0.362,1
+reviews,0.337,2
+news,0.15,2

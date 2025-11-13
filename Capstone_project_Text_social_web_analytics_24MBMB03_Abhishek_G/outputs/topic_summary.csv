@@ -1,0 +1,10 @@
+Dataset,Topic,Keywords
+tweets,Topic 1,"product, great, eco, sustainability, initiative, packaging, excellent, recommend, highly, value"
+tweets,Topic 2,"mark, campaign, creative, missed, week, delivery, happy, delay, issue, resolved"
+tweets,Topic 3,"year, brand, getting, better, keeps, skeptical, pricing, strategy, new, app"
+reviews,Topic 1,"buy, expectations, exceeded, absolutely, design, display, stunning, charging, faced, return"
+reviews,Topic 2,"price, sound, average, worth, quality, smooth, performance, excellent, life, battery"
+reviews,Topic 3,"works, use, flawlessly, month, money, highly, recommended, fantastic, value, quality"
+news,Topic 1,"gdp, consumer, grows, expands, confidence, tech, stock, boom, surge, giants"
+news,Topic 2,"sees, record, sales, season, holiday, ecommerce, rebounds, stabilize, sector, oil"
+news,Topic 3,"traditional, retail, startups, ecosystems, innovative, disrupt, data, volatility, unexpected, rises"
